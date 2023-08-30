@@ -2,7 +2,7 @@
 
 ### Simple portfolio created with HTML &amp; CSS &amp; Bootstrap.
 
-## Live version: [DevFolio](https://amrtarek1097.github.io/gym-exercise-app/)
+## Live version: [DevFolio](https://amrtarek1097.github.io/DevFolio/)
 
 
 ## Technologies used:
